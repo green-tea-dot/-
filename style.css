@@ -21,3 +21,13 @@ button {
 button:hover {
   background-color: #2980b9;
 }
+.correct {
+  background-color: #c8f7c5;
+}
+.wrong {
+  background-color: #f7c5c5;
+}
+.choice {
+  margin: 5px;
+  padding: 8px;
+}
